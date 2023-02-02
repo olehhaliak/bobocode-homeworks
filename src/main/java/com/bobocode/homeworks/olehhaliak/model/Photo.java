@@ -6,6 +6,4 @@ public record Photo(
     @JsonProperty("img_src")
     String imageSrc
 ) {
-
-
 }
